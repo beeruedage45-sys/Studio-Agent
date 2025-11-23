@@ -1,0 +1,9 @@
+{
+  "name": "Studio Agent",
+  "description": "A high-performance creative AI assistant featuring real-time voice interaction, rapid text responses, and professional studio tools for image and video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
